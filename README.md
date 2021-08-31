@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onedamianocoder
 - 👀 I’m interested in all about IT
-- 🌱 I’m currently learning web developement, android native developement in java
+- 🌱 I’m currently learning web developement, android native developement in java, c and c++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: damy32dc@gmail.com
 
